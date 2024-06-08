@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "": {"model":  "mptmod:block/something_block"}
+  }
+}

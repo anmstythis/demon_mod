@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "": {"model":  "mptmod:block/godhead_block"}
+  }
+}
